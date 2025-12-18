@@ -22,6 +22,9 @@ Reflection/
 
 Contains the one-page report summarizing the experience of creating and maintaining this GitHub repository.
 
+Project Board
+A GitHub project board used to track tasks and progress during the semester and referenced during standups to communicate work status.
+
 ## Repository Maintenance
 
 This repository was maintained throughout the term to track progress, manage versions of key deliverables, and consolidate course materials in a single workspace. Updates were made as work progressed on assignments and the final project.
